@@ -8,6 +8,23 @@ The RDS-file **twist_zrh.RDS** contains the resulting R-dataframe. For those rel
 
 metadata.txt contains a detailed description of the variables contained in the file. 
 
+- Titel des Datensatzes	Flights from / to Zurich Airport
+- Beschreibung des Datensatzes	Dataset of flights from / to Zurich airport enriched with data from the origin/destination airports, calculated distances as well as weather-data from meteoswiss.
+- Publizierende Organisation	Specialist & Coordination Unit for Open Government Data of the Canton of Zurich
+- E-Mail-Adresse für Fragen zum Datensatz	info@open.zh.ch
+	
+- Datum der erstmaligen Publikation des Datensatzes	24.08.2018
+- Datum der letztmaligen Anpassung des Datensatzes	24.08.2018
+- Sprache des Datensatzes	English
+		
+- Zeitliche Abdeckung des Datensatzes	01.01.2017 - 31.12.2017
+- Aktualisierungsfrequenz des Datensatzes	exclusively for the TWIST-Hackathon
+	
+	
+*Datum der erstmaligen Publikation der Primärdaten des Datensatzes	24.08.2018
+	
+*Nutzungsbedingung, unter der die Primärdaten wiederverwendet werden dürfen	Freie Nutzung
+
 Further sources for weather data at global scale or atmospheric conditions:
 
 - meteorogical conditions on the ground via NASApower: https://adamhsparks.github.io/nasapower/
