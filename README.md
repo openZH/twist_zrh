@@ -27,7 +27,7 @@ metadata.txt contains a detailed description of the variables contained in the f
 ## periodicity	
 	once (exclusively for the TWIST-Hackathon)
 ## license	
-	[Licence](licence.txt)
+[Licence](licence.txt)
 
 Further sources for weather data at global scale or atmospheric conditions:
 
