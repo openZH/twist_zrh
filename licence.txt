@@ -1,0 +1,8 @@
+<Flights from / to Zurich Airport> by <Fach- und Koordinationsstelle OGD Kanton Zürich>
+
+To the extent possible under law, the person who associated CC0 with
+<Flights from / to Zurich Airport> has waived all copyright and related or neighboring rights
+to <Flights from / to Zurich Airport>.
+
+You should have received a copy of the CC0 legalcode along with this
+work.  If not, see <http://creativecommons.org/publicdomain/zero/1.0/>.
